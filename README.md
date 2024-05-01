@@ -1,2 +1,2 @@
 <h1 align="center">Hi, I'm Rej</h1>
-<h3 align="center"><p align="center"> <img width="232" height="256" src="https://cdn.discordapp.com/attachments/547262490493321267/1234315015545159690/IMG_0772.png?ex=663048f0&is=662ef770&hm=c70b6860f24df78ed771cf1d1156ac94e7c82caba805f28ce1dade56381f0800&"> </p> <p align="center"> 🌱 im a beginner developer </p> <p align="center"> 📖 i want to learn web development</p></h3>
+<h3 align="center"><p align="center"> <img width="232" height="256" src="https://files.catbox.moe/qyusrv.jpg"> </p> <p align="center"> 🌱 im a beginner developer </p> <p align="center"> 📖 i want to learn web development</p></h3>
